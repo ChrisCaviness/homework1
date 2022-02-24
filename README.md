@@ -1,5 +1,7 @@
 Christopher Caviness - Homework 1 / February 23 2022 - Refactoring HTML
 
+Link to final page: https://chriscaviness.github.io/homework1/
+
 1.) Adjusted the List Elements in the header to be on single lines so they are easier to read.
 
 2.) Seperated the <div class="hero"> main image area from being one line under the header so it has a more obvious section away from all the header content.
